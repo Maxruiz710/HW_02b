@@ -13,6 +13,8 @@ Below features all of the test cases I've used for this assignment.
 
 import unittest
 
+# TEST FOR CIRCLECI
+
 from Triangle import classifyTriangle
 # TEST
 # This code implements the unit test functionality
